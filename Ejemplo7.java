@@ -8,7 +8,7 @@ public class Ejemplo7 {
         //Datos de prueba
         int[] nacionales = {25000,18600,14400,12000,30000};
         int[] internacionales = {10000,5000,200,800,60000};
-//dsadas
+
         //pregunta 1
         int[] totalXPlato = calcularTotalXPlato(nacionales,internacionales);
         System.out.println("Los totales son: " + Arrays.toString(totalXPlato));

@@ -9,7 +9,7 @@ public class Ejemplo1 {
         double sueldo=5000;
         double aporteMensual=0;
         double netoMensual=0;
-
+        ///Nuevo mensaje
         if(aporte.equals("AFP")){
             aporteMensual = sueldo*0.17;
             netoMensual = sueldo - aporteMensual;
