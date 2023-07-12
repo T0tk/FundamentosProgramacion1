@@ -17,7 +17,7 @@ public class EP2 {
             System.out.println();
         }
 
-
+        //Arrays multidimensionales
         int[][][][][]  nc = new  int[24][31][12][2999][21];
     }
 }
